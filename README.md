@@ -8,7 +8,7 @@ A typing speed test made in Python using the PyQt framework
 
 download files ```typetest.py``` and ```requirements.txt```
 
-```
-pip install -r requirements.txt
-python typetest.py
+```console
+foo@bar:~$ pip install -r requirements.txt
+foo@bar:~$ python typetest.py
 ```
