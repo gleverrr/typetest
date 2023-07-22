@@ -1,4 +1,4 @@
-# Type speed test
+# Typing speed test
 A typing speed test made in Python using the PyQt framework
 
 <img src="https://github.com/gleverrr/typetest/blob/main/image1.PNG" alt="screen1" height = "180">
